@@ -1,3 +1,3 @@
 # alpha1s
-robot bluetooth hacking 
+robot bluetooth hacking in python 
 with servo command using html , css based ui
